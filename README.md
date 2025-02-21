@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Интернет магазин на Django
 
 Это полноценный проект интернет-магазина, разработанный на Django.
@@ -47,3 +48,6 @@ python manage.py runserver
 
 # Автор
 [Расулов Бахадыр](https://github.com/Bakhadyr04)
+=======
+# DjangoProject
+>>>>>>> 2ac39c5c790fc17556f0ec52d5d1ea25fc9a1568
